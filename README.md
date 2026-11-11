@@ -11,8 +11,8 @@
 
 *Learning troubleshooting and automation, one lab at a time.*
 
-<a href="https://github.com/smadie228/sub"><img src="https://img.shields.io/badge/Service_Checker-учебный_проект-1d9ca8?style=for-the-badge" alt="Service Checker"/></a>
-<a href="https://github.com/smadie228/New_world/tree/main/projects/linux-incident-lab"><img src="https://img.shields.io/badge/Linux_Incident_Lab-практика-367fb0?style=for-the-badge" alt="Linux Incident Lab"/></a>
+<a href="https://github.com/smadie228/service-checker"><img src="https://img.shields.io/badge/Service_Checker-учебный_проект-1d9ca8?style=for-the-badge" alt="Service Checker"/></a>
+<a href="https://github.com/smadie228/linux-incident-lab"><img src="https://img.shields.io/badge/Linux_Incident_Lab-практика-367fb0?style=for-the-badge" alt="Linux Incident Lab"/></a>
 
 </div>
 
@@ -36,8 +36,8 @@ danil@lab:~$ cat focus.txt
 
 | Проект | Что внутри | Зачем сделал |
 |:--|:--|:--|
-| 🔎 **[Service Checker](https://github.com/smadie228/sub)** | Python, HTTP/TCP, JSON/JSONL, unit-тесты, QA-чеклист и учебные Jira-сценарии | Учиться диагностировать недоступные сервисы и оформлять результаты проверок |
-| 🐧 **[Linux Incident Lab](https://github.com/smadie228/New_world/tree/main/projects/linux-incident-lab)** | Bash, тестовый HTTP-сервис, сценарии 503/timeout, тесты и инструкции | Практиковать базовую диагностику инцидентов на учебном стенде |
+| 🔎 **[Service Checker](https://github.com/smadie228/service-checker)** | Python, HTTP/TCP, JSON/JSONL, unit-тесты, QA-чеклист и учебные Jira-сценарии | Учиться диагностировать недоступные сервисы и оформлять результаты проверок |
+| 🐧 **[Linux Incident Lab](https://github.com/smadie228/linux-incident-lab)** | Bash, тестовый HTTP-сервис, сценарии 503/timeout, тесты и инструкции | Практиковать базовую диагностику инцидентов на учебном стенде |
 | 🧱 **[cub3D](https://github.com/smadie228/cb3d)** | C, raycasting, обработка карты, графика, управление памятью | Практика системного мышления и работы с C в Школе 21 |
 | 🧮 **[Функциональное программирование](https://github.com/smadie228/synergy-functional-programming)** | Python, Haskell, лабораторные, тесты, инструкции | Закреплять алгоритмическую базу и разбирать инструменты на практике |
 
