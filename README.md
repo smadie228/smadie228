@@ -37,7 +37,7 @@ danil@lab:~$ cat focus.txt
 | Проект | Что внутри | Зачем сделал |
 |:--|:--|:--|
 | 🔎 **[Service Checker](https://github.com/smadie228/service-checker)** | Python, HTTP/TCP, JSON/JSONL, unit-тесты, QA-чеклист и учебные Jira-сценарии | Учиться диагностировать недоступные сервисы и оформлять результаты проверок |
-| 🐧 **[Linux Incident Lab](https://github.com/smadie228/linux-incident-lab)** | Bash, тестовый HTTP-сервис, сценарии 503/timeout, тесты и инструкции | Практиковать базовую диагностику инцидентов на учебном стенде |
+| 🐧 **[Linux Incident Lab](https://github.com/smadie228/linux-incident-lab)** | Bash, HTTP 503/timeout, тесты и [security CI](https://github.com/smadie228/linux-incident-lab/actions/workflows/devsecops-security.yml) | Диагностика инцидентов, Bandit (SAST) и pip-audit (SCA) на учебном стенде |
 | 🧱 **[cub3D](https://github.com/smadie228/cb3d)** | C, raycasting, обработка карты, графика, управление памятью | Практика системного мышления и работы с C в Школе 21 |
 | 🧮 **[Функциональное программирование](https://github.com/smadie228/synergy-functional-programming)** | Python, Haskell, лабораторные, тесты, инструкции | Закреплять алгоритмическую базу и разбирать инструменты на практике |
 
@@ -61,6 +61,7 @@ danil@lab:~$ cat focus.txt
 ### `04 / currently_learning`
 
 - **DevSecOps:** основы безопасности Linux, управление секретами, анализ зависимостей, CI/CD и принципы безопасной инфраструктуры — изучаю на учебных примерах.
+- **Моя практика DevSecOps:** [проверки Bandit, pip-audit и GitHub Actions](https://github.com/smadie228/linux-incident-lab/blob/main/docs/DEVSECOPS_LAB.md) — инструкции и воспроизводимые команды.
 - Диагностика Linux: процессы, логи, права, сетевые подключения и systemd.
 - Работа службы поддержки: приоритизация, воспроизведение проблем, эскалация и понятные тикеты.
 - Active Directory и инструменты мониторинга — **в процессе изучения**, не заявляю коммерческую практику.
